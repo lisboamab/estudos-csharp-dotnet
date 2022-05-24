@@ -1,0 +1,16 @@
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\bin\Debug\net5.0\primeiro-projeto-dotnet.exe
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\bin\Debug\net5.0\primeiro-projeto-dotnet.deps.json
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\bin\Debug\net5.0\primeiro-projeto-dotnet.runtimeconfig.json
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\bin\Debug\net5.0\primeiro-projeto-dotnet.runtimeconfig.dev.json
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\bin\Debug\net5.0\primeiro-projeto-dotnet.dll
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\bin\Debug\net5.0\ref\primeiro-projeto-dotnet.dll
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\bin\Debug\net5.0\primeiro-projeto-dotnet.pdb
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\primeiro-projeto-dotnet.csproj.AssemblyReference.cache
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\primeiro-projeto-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\primeiro-projeto-dotnet.AssemblyInfoInputs.cache
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\primeiro-projeto-dotnet.AssemblyInfo.cs
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\primeiro-projeto-dotnet.csproj.CoreCompileInputs.cache
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\primeiro-projeto-dotnet.dll
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\ref\primeiro-projeto-dotnet.dll
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\primeiro-projeto-dotnet.pdb
+C:\workspace\primeiro-projeto-dotnet\primeiro-projeto-dotnet\primeiro-projeto-dotnet\obj\Debug\net5.0\primeiro-projeto-dotnet.genruntimeconfig.cache
