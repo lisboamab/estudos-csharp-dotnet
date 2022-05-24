@@ -1,13 +1,17 @@
 ﻿using System;
+using System.Globalization;
 
 namespace primeiro_projeto_dotnet
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
-			double teste1 = 10.45;
-			Console.WriteLine(teste1.ToString("F2"));
-		}
-	}
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double saldo = 10.45;
+            int idade = 32;
+            string nome = "Maria";
+
+            Console.WriteLine($"{nome} tem {idade} anos e possui {saldo.ToString("F2", CultureInfo.InvariantCulture)} reais na conta");
+        }
+    }
 }
